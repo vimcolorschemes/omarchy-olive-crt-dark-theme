@@ -1,6 +1,6 @@
 return {
 	{
-		"reobin/olive-crt.nvim",
+		"vimcolorschemes/olive-crt.nvim",
 		priority = 1000,
 		opts = {
 			transparent = true,

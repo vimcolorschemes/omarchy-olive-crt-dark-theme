@@ -1,6 +1,6 @@
 # `omarchy-olive-crt-dark-theme`
 
-`omarchy-olive-crt-dark-theme` is a dark Omarchy theme built around [`reobin/olive-crt.nvim`](https://github.com/reobin/olive-crt.nvim).
+`omarchy-olive-crt-dark-theme` is a dark Omarchy theme built around [`vimcolorschemes/olive-crt.nvim`](https://github.com/vimcolorschemes/olive-crt.nvim).
 
 ![olive-crt dark for Omarchy](preview.png)
 
